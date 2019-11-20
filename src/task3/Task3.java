@@ -18,7 +18,9 @@ public class Task3 {
         System.out.println("Dzisiaj jest: " + today);
         Period age = Period.between(dateOfBirth,today);
         int years = age.getYears();
+        int months = age.getMonths();
+        int days = age.getDays();
 
-        System.out.println("Masz " + years + " lat");
+        System.out.println("Masz " + years + " lat " + months + " miesięcy " + days + " dni");
     }
 }
