@@ -11,7 +11,7 @@ public class Task2 {
 
         System.out.println("Podaj swoją datę urodzenia w formacie YYYY-MM-DD");
         String birth = scanner.nextLine();
-
+        scanner.close();
         String year = birth.substring(0,4);
         System.out.println("Twój rok urodzenia to: " + year);
         double bYear = Double.parseDouble(year);
@@ -25,5 +25,7 @@ public class Task2 {
         double age;
         age = aYear - bYear;
         System.out.printf("Masz %.0f lat", age);
+
+
     }
 }
