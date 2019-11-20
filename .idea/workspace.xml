@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4d2c86e6-43a6-45c5-8c7b-bee965ba9ef8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/Task3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +26,9 @@
   </component>
   <component name="ProjectId" id="1TscfFQSJ4uNgwBuTC8eJt3sVht" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>

@@ -27,5 +27,6 @@ public class Task2 {
         System.out.printf("Masz %.0f lat", age);
 
 
+
     }
 }

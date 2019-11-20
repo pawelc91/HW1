@@ -23,6 +23,14 @@ public class Task1 {
         System.out.println("Wprowadź swój numer PESEL");
         String pesel = scanner.nextLine();
 
+//        alternatywa dla podania i wyświetlenia płci
+//        System.out.println("Podaj swoją płeć M - mężczyzna | K - kobieta");
+//        String gender1 = scanner.nextLine();
+//        if (gender1.equals("M")){
+//            System.out.printf("Mężczyzna %s", gender1);
+//        }else {
+//            System.out.printf("Kobieta %s",gender1);
+//        }
         System.out.printf("Nazywasz się: %s %s \n"+"Jesteś %s\n"+"Pracujesz jako %s"+" i zarabiasz %.2f zł\n"+"Twój numer PESEL to %s\n", name, lastName, gender, workPlace, salary, pesel);
 
         scanner.close();
